@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="pobj-ci">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/scripts-ci/pobj-ci.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
