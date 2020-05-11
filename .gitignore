@@ -2,3 +2,5 @@
 *#
 *.class
 /bin/
+out
+.idea/sonarlint/
